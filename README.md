@@ -14,7 +14,7 @@ This module creates 2 rest apis based on Python/Flask open for `GET` requests:
 - Generate access tokens
 Refer to [twitter's page](https://developer.twitter.com/en/docs/basics/authentication/guides/access-tokens) for more. 
 
-## Running locally (with Py3)
+## Running locally (with Python3)
 
 Clone the repo
 ```
